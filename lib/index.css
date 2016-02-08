@@ -1,0 +1,16 @@
+body{
+  background-image: url("concrete_wall.png");
+  position: relative;
+}
+.drymoon{
+  width:250px;
+  height:250px;
+  text-align:center;
+}
+.container{
+  margin:0 auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
