@@ -1,16 +1,29 @@
 html{
   width:100%;
   height:100%;
+  background-color:#002b36;
+  color:#839496;
+  overflow: hidden;
 }
 
 body{
-  margin-left:30px;
+  margin-top:40px;
+  margin-left:70px;
   width:100%;
   height:100%;
+  color:#839496;
+  background-color:#002b36;
+}
+
+a {
+  color:#268bd2;
+  text-decoration:underline
 }
 
 .footer{
+  background-color:#073642;
   position:absolute;
+  width:100%;
   bottom:0;
   right:0;
   margin:0;
